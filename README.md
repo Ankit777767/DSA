@@ -37,3 +37,12 @@ Great for **interview preparation** and **competitive programming** 🚀.
 - 🎯 Suitable for interview prep & coding practice  
 
 ---
+
+
+---
+
+## ⚡ Installation
+Clone this repository:
+```bash
+git clone https://github.com/Ankit777767/DSA.git
+cd DSA
